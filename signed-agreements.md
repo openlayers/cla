@@ -4,7 +4,7 @@ See the [README.md](README.md) page for information on submitting a CLA.
 
 We have on file CLAs from the following people:
 
-## [ICLA (Individual))](https://docs.google.com/spreadsheet/viewform?formkey=dGNNVUJEMXF2dERTU0FXM3JjNVBQblE6MQ)
+## [ICLA (Individual)](https://docs.google.com/spreadsheet/viewform?formkey=dGNNVUJEMXF2dERTU0FXM3JjNVBQblE6MQ)
 
  * Allensworth, Greg
  * Arcos, Moises (@moiarcsan)
@@ -111,7 +111,7 @@ We have on file CLAs from the following people:
  * Young, Mark M. (@MarkMYoung)
  * Zanon, Swen (@swen100)
 
-## [CCLA (Company))](ccla.txt) ==
+## [CCLA (Company)](ccla.txt)
 
  * ADI Limited
    * Shorter, Cameron (@camerons)
