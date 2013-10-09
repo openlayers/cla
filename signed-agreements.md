@@ -8,6 +8,7 @@ We have on file CLAs from the following people:
 
  * Allensworth, Greg
  * Arcos, Moises (@moiarcsan)
+ * Běčák, Michal (@michalbecak)
  * Becchi, Lorenzo (@omniverdi)
  * Bieniek, Tobias (@Turbo87)
  * van der Biest, François (@fvanderbiest)
