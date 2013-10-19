@@ -198,6 +198,12 @@ We have on file CLAs from the following people:
    * Weijun Zhang
  * Hyperspectives
    * Schaub, Tim (@tschaub)
+ * IGEA
+   * Marko Turković
+   * Tomislav Obad
+   * Dragan Podvezanec
+   * Marko Škvorc
+   * Stjepan Grđan
  * I.T. Beyond Pty Ltd
    * David Martin (@itbeyond)
  * Intevation GmbH
