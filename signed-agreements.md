@@ -206,6 +206,12 @@ We have on file CLAs from the following people:
    * Stjepan Grđan
  * I.T. Beyond Pty Ltd
    * David Martin (@itbeyond)
+ * Intermedix Corporation
+   * Nicholas Kiraly (@nkiraly)
+   * Austin Hyde (@austinhyde)
+   * Tim Hirsh
+   * Mike McHale
+   * Bryan Kaplan (@bkaplanimx)
  * Intevation GmbH
    * Ingo Weinzierel
    * Emmanuel Schütze
