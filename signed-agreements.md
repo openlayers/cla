@@ -27,6 +27,7 @@ We have on file CLAs from the following people:
  * Deparday, Vivien (@vdeparday)
  * Dikiy, Sergey (@sdikiy)
  * Dobrota, Laurentiu (@rauldobrota)
+ * Donahue-Oponski, Collin (@colllin)
  * Dowling, Ronan (@ronan)
  * Duveen, Schuyler (@sky)
  * Dyas, Lance 
