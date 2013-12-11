@@ -49,6 +49,7 @@ We have on file CLAs from the following people:
  * Hoxworth, Kenny (@hoxworth)
  * Hudson, John (@jhudson)
  * Hughes, Tom (@tomh)
+ * Ignacio Varela García, Juan (@nachouve)
  * Jansen, Jan
  * Johnsen, Håkon (@haakeyar)
  * Johnson, Ian (@enjahova)
