@@ -75,6 +75,7 @@ We have on file CLAs from the following people:
  * Misev, Dimitar 
  * Mische, Volker
  * Montesinos, Miguel
+ * Moradiafkan, Yashar (@maveric1977)
  * Moradzadeh, Michael D. (@cayenne)
  * Nash, Edward (@ejn)
  * Nottingham, Matt
