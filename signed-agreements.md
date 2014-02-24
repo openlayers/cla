@@ -218,6 +218,8 @@ We have on file CLAs from the following people:
    * Tim Hirsh
    * Mike McHale
    * Bryan Kaplan (@bkaplanimx)
+   * Sean Brutscher (@lifedinosaur)
+   * Steve Pukansky
  * Intevation GmbH
    * Ingo Weinzierel
    * Emmanuel Schütze
