@@ -209,6 +209,9 @@ We have on file CLAs from the following people:
    * Stjepan Grđan
  * I.T. Beyond Pty Ltd
    * David Martin (@itbeyond)
+ * Institute of Geological and Nuclear Sciences (GNS Science Ltd)
+   * Malcolm Geddes (@MrMasochism)
+   * Phil Scadden
  * Intermedix Corporation
    * Nicholas Kiraly (@nkiraly)
    * Austin Hyde (@austinhyde)
