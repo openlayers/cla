@@ -253,6 +253,9 @@ We have on file CLAs from the following people:
    * Trond Michaelsen
    * Siri Spjelkavik
    * Geir Aalberg
+ * NOVASIB GmbH
+   * Carsten Senf
+   * André Rüdiger
  * RealGo
   * Colby Ackerfield
   * Timbonicus Hansen
