@@ -199,6 +199,8 @@ We have on file CLAs from the following people:
    * David Gavin
    * Harris Hudson
    * Weijun Zhang
+ * Hauforskningsinstituttet
+   * Endre Moen (@emoen)
  * Hyperspectives
    * Schaub, Tim (@tschaub)
  * IGEA
