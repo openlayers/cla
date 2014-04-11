@@ -255,6 +255,9 @@ We have on file CLAs from the following people:
    * Trond Michaelsen
    * Siri Spjelkavik
    * Geir Aalberg
+   * Sarfraz Alam
+   * Vegard Bønes
+   * Bjørn Kristian Larsen
  * NOVASIB GmbH
    * Carsten Senf
    * André Rüdiger
