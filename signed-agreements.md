@@ -165,6 +165,10 @@ We have on file CLAs from the following people:
    * Lawley, Ross 
  * Cloud Amber Limited
    * Thurbin, Richard 
+ * Columbus Technologies
+   * Frank Gerow
+   * Mike McGann (@mike-mcgann)
+   * Taylor Gunnoe
  * The Commonwealth of Australia, as represented by the Bureau of Meterology
    * Lee, Christopher
    * Miller, Karl
