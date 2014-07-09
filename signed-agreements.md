@@ -18,6 +18,7 @@ We have on file CLAs from the following people:
  * van den Broecke,  Just (@justb4)
  * Butler, Howard (@hobu)
  * Cabasson, Denis (@dcabasson)
+ * Calliess, Daniel
  * Cepicky, Jachym (@jachym)
  * Chen, Jian Ding (@timchen119)
  * Collins, Philip (@collinsp)
