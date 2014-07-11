@@ -281,6 +281,8 @@ We have on file CLAs from the following people:
    * Marc Jansen (@marcjansen)
  * Technology Associates
    * Porcelli, Frank (@fporcelli)
+ * US Geological Survey - CIDA
+   * David M Sibley (@davidmsibley)
  * Ushahidi
    * Robbie Mackay (@rjmackay)
    * Angela Oduor (@aoduor)
