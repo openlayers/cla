@@ -41,6 +41,7 @@ We have on file CLAs from the following people:
  * Gifford, Mike (@mgifford)
  * Gillies, Sean (@seang)
  * Golmann, Paul (@pjeweb)
+ * Gratier, Thomas (@ThomasG77)
  * Grcic, Ivan (@igrcic)
  * Harrtell, Björn (@bjornharrtell)
  * Henriksen, Bård (@Karamell)
@@ -52,12 +53,14 @@ We have on file CLAs from the following people:
  * Hughes, Tom (@tomh)
  * Ignacio Varela García, Juan (@nachouve)
  * Jansen, Jan
+ * Jeiziner, Gilbert (@gjn)
  * Johnsen, Håkon (@haakeyar)
  * Johnson, Ian (@enjahova)
- * Kempfer, Kevin (@kkempfer)
- * Kryger, Łukasz (@kryger)
+ * Kalbermatten, Michael (@kalbermattenm)
  * Kaminsky, Alexander (@alkamin)
+ * Kempfer, Kevin (@kkempfer)
  * Kliemeck, Hajo (@h0nIg)
+ * Kryger, Łukasz (@kryger)
  * Lawley, Ross 
  * van der Linden, Milo (@milovanderlinden)
  * Leib, Daniel (@mucer)
@@ -78,10 +81,12 @@ We have on file CLAs from the following people:
  * Montesinos, Miguel
  * Moradiafkan, Yashar (@maveric1977)
  * Moradzadeh, Michael D. (@cayenne)
+ * Moullet, Cédric (@cedricmoullet)
  * Nash, Edward (@ejn)
  * Nottingham, Matt
  * Overstrom, David (@overstdr)
  * Pavel, Iacovlev (@iacovlev-pavel)
+ * Payne, Tom (@twpayne)
  * Pini, Lorenzo 
  * Parker, Dustin (@dparker)
  * Pedersen, Brent (@brentp)
@@ -106,9 +111,11 @@ We have on file CLAs from the following people:
  * Stampoultzis, Glen (@gstamp)
  * Strachanski, Fabian (@fastrde)
  * Tandy, Michael
+ * Thorner, Todd (@7-liberal-arts)
  * Uzureau, Erik (@euzuro)
  * Vardeman, Andrew (@adv-isu)
- * Walker, Mathias (@mwa) 
+ * Walker, Mathias (@mwa)
+ * Williams, Jeff (@hegemonic)
  * Wood, Thomas (@edgemaster)
  * Woodall, Bill (@bwoodall)
  * Wooten, Michael Wooten (@mwootendev)
