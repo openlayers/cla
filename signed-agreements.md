@@ -243,9 +243,9 @@ We have on file CLAs from the following people:
  * Iowa State University, Center for Survey Statistics and Methodology
    * Vardeman, Andrew (@adv-isu)
  * Klokan Technologies GmbH
-   * Petr Pridal
-   * Petr Sloup
-   * Vaclav Klusak
+   * Petr Pridal (@klokan)
+   * Petr Sloup (@petrsloup)
+   * Vaclav Klusak (@keosak)
  * MapGears
    * Julien-Samuel Lacroix
    * Alexandre Dube
