@@ -242,6 +242,9 @@ We have on file CLAs from the following people:
    * Tim Englich
  * Iowa State University, Center for Survey Statistics and Methodology
    * Vardeman, Andrew (@adv-isu)
+ * Klaus Benndorf
+   * Simon Seyock (@simonseyock)
+   * Josef Schugt
  * Klokan Technologies GmbH
    * Petr Pridal (@klokan)
    * Petr Sloup (@petrsloup)
