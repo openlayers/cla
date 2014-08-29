@@ -115,6 +115,7 @@ We have on file CLAs from the following people:
  * Uzureau, Erik (@euzuro)
  * Vardeman, Andrew (@adv-isu)
  * Walker, Mathias (@mwa)
+ * Whalen, Kevin (@KevinWhalen)
  * Williams, Jeff (@hegemonic)
  * Wood, Thomas (@edgemaster)
  * Woodall, Bill (@bwoodall)
