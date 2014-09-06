@@ -193,6 +193,8 @@ We have on file CLAs from the following people:
    * Adair, Mike (@madair)
    * Zak James
    * William Bronsema
+ * Eckersall LCC
+   * Michael D. Albertson Jr. (@mdalbertsonjr)
  * FINN.no AS
    * Gregers Gram Rygg (@gregers)
    * Henning Spjelkavik
