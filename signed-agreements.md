@@ -65,6 +65,7 @@ We have on file CLAs from the following people:
  * van der Linden, Milo (@milovanderlinden)
  * Leib, Daniel (@mucer)
  * Lesage, Sylvain (@severo)
+ * Lihua, Wang (@vczero)
  * Lister, Jonathan (@jayfresh)
  * López Espínola, Christian (@penyaskito)
  * Maciak, Thaddeus J. (@tjcri)
