@@ -293,7 +293,14 @@ We have on file CLAs from the following people:
  * R3 GIS SRL
    * Degasperi, Daniel (@daniel.degasperi)
  * Sandford Technology Ltd.
-   * Stembridge, James 
+   * Stembridge, James
+ * Six3 Advanced Systems, Inc., d.b.a. BIT Systems
+   * Kevin Schmidt (@schmidtk)
+   * William Wall
+   * Jeremy Salankey
+   * Brian Riedinger
+   * Noah Solomon
+   * Jessica Denning
  * Terrestris
    * Adams, Till (@terrestris)
    * Marc Jansen (@marcjansen)
