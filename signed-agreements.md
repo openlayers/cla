@@ -21,6 +21,7 @@ We have on file CLAs from the following people:
  * Calliess, Daniel (@flansch)
  * Cepicky, Jachym (@jachym)
  * Chen, Jian Ding (@timchen119)
+ * Choly, Ilia (@icholy)
  * Collins, Philip (@collinsp)
  * Commandeur, Edwin (@ecommand)
  * Coukouma, Nikolas (@nikolasco)
