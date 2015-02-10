@@ -20,6 +20,7 @@ We have on file CLAs from the following people:
  * Cabasson, Denis (@dcabasson)
  * Calliess, Daniel (@flansch)
  * Cepicky, Jachym (@jachym)
+ * Chadwick, Bill (@bill-chadwick)
  * Chen, Jian Ding (@timchen119)
  * Choly, Ilia (@icholy)
  * Collins, Philip (@collinsp)
