@@ -258,6 +258,9 @@ We have on file CLAs from the following people:
    * Petr Pridal (@klokan)
    * Petr Sloup (@petrsloup)
    * Vaclav Klusak (@keosak)
+ * Koordinates Ltd.
+   * Robert Coup (@rcoup)
+   * Sara Metz (@sarametz)
  * MapGears
    * Julien-Samuel Lacroix
    * Alexandre Dube
