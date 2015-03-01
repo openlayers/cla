@@ -19,7 +19,7 @@ We have on file CLAs from the following people:
  * Butler, Howard (@hobu)
  * Cabasson, Denis (@dcabasson)
  * Calliess, Daniel (@flansch)
- * Case, Cristopher S. (@morgul)
+ * Case, Christopher S. (@morgul)
  * Cepicky, Jachym (@jachym)
  * Chadwick, Bill (@bill-chadwick)
  * Chen, Jian Ding (@timchen119)
