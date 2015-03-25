@@ -95,6 +95,7 @@ We have on file CLAs from the following people:
  * Pini, Lorenzo 
  * Parker, Dustin (@dparker)
  * Pedersen, Brent (@brentp)
+ * Peručić, Fran (@fperucic)
  * Prilepskiy, Anton Igorevich (@towa48)
  * Prunayre, François (@fx.prunayre)
  * Ratcliffe, Adam (@aratcliffe)
