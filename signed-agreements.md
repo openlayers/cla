@@ -47,6 +47,7 @@ We have on file CLAs from the following people:
  * Grant, Christopher W. (@cwgrant)
  * Gratier, Thomas (@ThomasG77)
  * Grcic, Ivan (@igrcic)
+ * Гренишин, Александр (@nd0ut)
  * Harrtell, Björn (@bjornharrtell)
  * Henriksen, Bård (@Karamell)
  * Hepburn, Mark (@markhepburn)
