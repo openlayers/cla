@@ -195,6 +195,12 @@ We have on file CLAs from the following people:
    * de Wit, Roald
    * McAuliffe, Robert
    * Borysiewicz, Simon
+ * Commonwealth Computer Research, Inc.
+   * Attai, Randy
+   * Forkin, Micheal
+   * Hamblet, Nicholas
+   * Kenneally, Jake
+   * Williams, Matt
  * componio GmbH
    * Liese, Thorsten (@thliese)
  * DM Solutions
