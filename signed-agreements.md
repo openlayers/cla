@@ -203,6 +203,8 @@ We have on file CLAs from the following people:
    * Williams, Matt
  * componio GmbH
    * Liese, Thorsten (@thliese)
+ * CS, Systèmes d'information
+   * Vincent Gaudissart (@geonux)
  * DM Solutions
    * Spencer, Paul (@pagameba, @pspencer)
    * Adair, Mike (@madair)
