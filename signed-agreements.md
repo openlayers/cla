@@ -40,6 +40,7 @@ We have on file CLAs from the following people:
  * Dyas, Lance 
  * van den Eijnden, Bart (@bartvde)
  * Eykamp Christopher (@eykamp)
+ * Figueiredo de Sá, Denilson (@denilsonsa)
  * Fonts, Oscar (@oscar.fonts)
  * Gawlik, Robin (@rgawlik)
  * Gensthaler, Max (@gensth)
