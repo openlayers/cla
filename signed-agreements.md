@@ -127,6 +127,7 @@ We have on file CLAs from the following people:
  * Spitzer, Zac (@zspitzer)
  * Stampoultzis, Glen (@gstamp)
  * Strachanski, Fabian (@fastrde)
+ * Strumpflohner, Juri (@juristr)
  * Szekeres, Tamas (@szekerest)
  * Tandy, Michael
  * Thorner, Todd (@7-liberal-arts)
