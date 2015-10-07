@@ -9,6 +9,7 @@ We have on file CLAs from the following people:
  * Allensworth, Greg
  * Arcos, Moises (@moiarcsan)
  * Attai, Randy (@rattai)
+ * Barsballe, Torben (@tbarsballe)
  * Běčák, Michal (@michalbecak)
  * Becchi, Lorenzo (@omniverdi)
  * Beckman, Måns (@spatialillusions)
