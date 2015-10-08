@@ -133,6 +133,7 @@ We have on file CLAs from the following people:
  * Tandy, Michael
  * Thorner, Todd (@7-liberal-arts)
  * Uzureau, Erik (@euzuro)
+ * Vaduva, Bogdan (@bogdanvaduva)
  * Vardeman, Andrew (@adv-isu)
  * Walker, Jonatas (@jonataswalker)
  * Walker, Mathias (@mwa)
