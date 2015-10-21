@@ -28,6 +28,7 @@ We have on file CLAs from the following people:
  * Chadwick, Bill (@bill-chadwick)
  * Chen, Jian Ding (@timchen119)
  * Choly, Ilia (@icholy)
+ * Cohen, Tamar Elizabeth (@tamarmot)
  * Collins, Philip (@collinsp)
  * Commandeur, Edwin (@ecommand)
  * Coukouma, Nikolas (@nikolasco)
@@ -114,6 +115,7 @@ We have on file CLAs from the following people:
  * Reid, Gabriel (@greid)
  * Ringdahl, Niklas
  * Robins, Peter William (@pwr)
+ * Rowe, Barry (@barryrowe)
  * Rykov, Denis Rykov (@dr)
  * Ryan, Michael (@m1k3ry4n)
  * Santiago, Antonio (@acanimal)
@@ -130,6 +132,7 @@ We have on file CLAs from the following people:
  * Strachanski, Fabian (@fastrde)
  * Strumpflohner, Juri (@juristr)
  * Szekeres, Tamas (@szekerest)
+ * Tananaev, Anton
  * Tandy, Michael
  * Thorner, Todd (@7-liberal-arts)
  * Uzureau, Erik (@euzuro)
