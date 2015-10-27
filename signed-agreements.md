@@ -20,6 +20,7 @@ We have on file CLAs from the following people:
  * Bösch-Plepelits, Stephan (@plepe)
  * Brantley, Huey (@hpbrantley)
  * van den Broecke,  Just (@justb4)
+ * van der Leije, Jeffrey (@FRizZL)
  * Butler, Howard (@hobu)
  * Cabasson, Denis (@dcabasson)
  * Calliess, Daniel (@flansch)
