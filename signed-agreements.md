@@ -197,6 +197,7 @@ We have on file CLAs from the following people:
    * Abt, Antoine (@aabt)
    * Brunner, Stéphane (@sbrunner)
    * Sauerwein, Tobias (@tsauerwein)
+   * Patrick Valsecchi (@pvalsecc)
  * CitySafe
    * Dowding, Ed (@eddowding)
    * Lawley, Ross 
