@@ -241,6 +241,9 @@ We have on file CLAs from the following people:
    * Magne Thyrhaug
    * Eivind Halvorsen
    * Snorre Nygaard
+ * FlightAware LCC
+   * Clifton, Philip (@pclifton)
+   * Reiter, Daniel
  * Gecko Informasjonssystemer AS
    * Henriksen, Jan Rune (@geckoas)
  * geOps e.K.
