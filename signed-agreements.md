@@ -363,10 +363,14 @@ We have on file CLAs from the following people:
    * Brian Muita (@69mb)
    * Henry Addo (@eyedol)
  * Viewsurf SAS
-  * Régade, David (@dregade)
-  * Iragne, Florian  
+   * Régade, David (@dregade)
+   * Iragne, Florian
+ * Weave Visual Analytics, Inc.
+   * Kovac, Philip (@pkovac)
+   * Dufilie, Andy
+   * Kamayou, Franck
  * Wheatley Associates Ltd.
-  * Adam Borrows
+   * Adam Borrows
  * m-click
    * Volker Grabsch (@vog)
    * Matthias Pohl (@mpohl)
