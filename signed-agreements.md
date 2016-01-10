@@ -19,6 +19,7 @@ We have on file CLAs from the following people:
  * Blake, Scott Landon
  * Bösch-Plepelits, Stephan (@plepe)
  * Brantley, Huey (@hpbrantley)
+ * Brault, Alexandre (@alexbrault)
  * van den Broecke,  Just (@justb4)
  * van der Leije, Jeffrey (@FRizZL)
  * Butler, Howard (@hobu)
