@@ -160,15 +160,15 @@ We have on file CLAs from the following people:
  * ADI Limited
    * Shorter, Cameron (@camerons)
  * Analytical Graphics, Inc.
-   * Patrick Cozzi (@pjcozzi)
-   * Dan Bagnell (@bagnell)
-   * Kevin Ring (@kring)
-   * Scott Hunter (@shunter)
-   * Matt Ford (@mrmattf)
-   * Matt Amato (@mramato)
-   * Ed Mackey (@emackey)
-   * Greg Beatty (@gbeatty)
-   * Tom Fili (@tfili)
+   * Cozzi, Patrick (@pjcozzi)
+   * Bagnell, Dan (@bagnell)
+   * Ring, Kevin (@kring)
+   * Hunter, Scott (@shunter)
+   * Ford, Matt (@mrmattf)
+   * Amato, Matt (@mramato)
+   * Mackey, Ed (@emackey)
+   * Beatty, Greg (@gbeatty)
+   * Fili, Tom (@tfili)
  * Azavea Incorporated
    * Adams, Jeff
    * Brittain, Carissa
@@ -206,9 +206,9 @@ We have on file CLAs from the following people:
  * Cloud Amber Limited
    * Thurbin, Richard 
  * Columbus Technologies
-   * Frank Gerow
-   * Mike McGann (@mike-mcgann)
-   * Taylor Gunnoe
+   * Gerow, Frank
+   * Mc, MikeGann (@mike-mcgann)
+   * Gunnoe, Taylor
  * The Commonwealth of Australia, as represented by the Bureau of Meterology
    * Lee, Christopher
    * Miller, Karl
@@ -226,83 +226,83 @@ We have on file CLAs from the following people:
  * componio GmbH
    * Liese, Thorsten (@thliese)
  * CS, Systèmes d'information
-   * Vincent Gaudissart (@geonux)
+   * Gaudissart, Vincent (@geonux)
  * DM Solutions
    * Spencer, Paul (@pagameba, @pspencer)
    * Adair, Mike (@madair)
-   * Zak James
-   * William Bronsema
+   * Zak, James
+   * Bronsema, William
  * Eckersall LCC
    * Michael D. Albertson Jr. (@mdalbertsonjr)
  * FINN.no AS
-   * Gregers Gram Rygg (@gregers)
-   * Henning Spjelkavik
-   * Benjamin Lager
-   * Magne Thyrhaug
-   * Eivind Halvorsen
-   * Snorre Nygaard
+   * Gram Rygg, Gregers (@gregers)
+   * Spjelkavik, Henning
+   * Lager, Benjamin
+   * Thyrhaug, Magne
+   * Halvorsen, Eivind
+   * Nygaard, Snorre
  * FlightAware LCC
    * Clifton, Philip (@pclifton)
    * Reiter, Daniel
  * Gecko Informasjonssystemer AS
    * Henriksen, Jan Rune (@geckoas)
  * geOps e.K.
-   * Augustus Kling (@AugustusKling)
-   * Nico Mandery (@nmandery)
-   * Friedjoff Trautwein
-   * Uli Müller (@ulimueller)
+   * Kling, Augustus (@AugustusKling)
+   * Mandery, Nico (@nmandery)
+   * Trautwein, Friedjoff
+   * Müller, Uli (@ulimueller)
  * GeoScience Australia
-   * Mark Babic
-   * David Gavin
-   * Harris Hudson
-   * Weijun Zhang
+   * Babic, Mark
+   * Gavin, David
+   * Hudson, Harris
+   * Zhang, Weijun
  * Hauforskningsinstituttet
-   * Endre Moen (@emoen)
+   * Moen, Endre (@emoen)
  * Hyperspectives
    * Schaub, Tim (@tschaub)
  * IGEA
-   * Marko Turković
-   * Tomislav Obad
-   * Dragan Podvezanec
-   * Marko Škvorc
-   * Stjepan Grđan
+   * Turković, Marko
+   * Obad, Tomislav
+   * Podvezanec, Dragan
+   * Škvorc, Marko
+   * Grđan, Stjepan
  * I.T. Beyond Pty Ltd
-   * David Martin (@itbeyond)
+   * Martin, David (@itbeyond)
  * Institute of Geological and Nuclear Sciences (GNS Science Ltd)
-   * Malcolm Geddes (@MrMasochism)
-   * Phil Scadden
+   * Geddes, Malcolm (@MrMasochism)
+   * Scadden, Phil
  * Intermedix Corporation
-   * Nicholas Kiraly (@nkiraly)
-   * Austin Hyde (@austinhyde)
-   * Tim Hirsh
-   * Mike McHale
-   * Bryan Kaplan (@bkaplanimx)
-   * Sean Brutscher (@lifedinosaur)
-   * Steve Pukansky
+   * Kiraly, Nicholas (@nkiraly)
+   * Hyde, Austin (@austinhyde)
+   * Hirsh, Tim
+   * McHale, Mike
+   * Kaplan, Bryan (@bkaplanimx)
+   * Brutscher, Sean (@lifedinosaur)
+   * Pukansky, Steve
  * Intevation GmbH
-   * Ingo Weinzierel
-   * Emmanuel Schütze
-   * Hans Plum
-   * Stephan Holl
-   * Tim Englich
+   * Weinzierel, Ingo
+   * Schütze, Emmanuel
+   * Plum, Hans
+   * Holl, Stephan
+   * Englich, Tim
  * Iowa State University, Center for Survey Statistics and Methodology
    * Vardeman, Andrew (@adv-isu)
  * Klaus Benndorf
-   * Simon Seyock (@simonseyock)
-   * Josef Schugt
+   * Seyock, Simon (@simonseyock)
+   * Schugt, Josef
  * Klokan Technologies GmbH
-   * Petr Pridal (@klokan)
-   * Petr Sloup (@petrsloup)
-   * Vaclav Klusak (@keosak)
+   * Pridal, Petr (@klokan)
+   * Sloup, Petr (@petrsloup)
+   * Klusak, Vaclav (@keosak)
  * Koordinates Ltd.
-   * Robert Coup (@rcoup)
-   * Sara Metz (@sarametz)
+   * Coup, Robert (@rcoup)
+   * Metz, Sara (@sarametz)
  * MapGears
-   * Julien-Samuel Lacroix
-   * Alexandre Dube
-   * Alan Boudreault
-   * Daniel Morissette
-   * Normand Savard
+   * Lacroix, Julien-Samuel
+   * Dube, Alexandre
+   * Boudreault, Alan
+   * Morissette, Daniel
+   * Savard, Normand
  * MetaCarta
    * Erle, Schuyler (@sderle)
    * Frank, John (@jrf)
@@ -315,53 +315,53 @@ We have on file CLAs from the following people:
  * Newgrove Consultants Limited
    * Diss, John (@john_diss)
  * Nieuwland Automatisiering BV.
-   * Jan Jansen
+   * Jansen, Jan
  * North Avenue Technologies
    * Phillips, Frank (@frankydp)
  * Norwegian Metrological Institute
-   * Trond Michaelsen
-   * Siri Spjelkavik
-   * Geir Aalberg
-   * Sarfraz Alam
-   * Vegard Bønes
-   * Bjørn Kristian Larsen
+   * Michaelsen, Trond
+   * Spjelkavik, Siri
+   * Aalberg, Geir
+   * Alam, Sarfraz
+   * Bønes, Vegard
+   * Kristian, Bjørn Larsen
  * NOVASIB GmbH
-   * Carsten Senf
-   * André Rüdiger
+   * Senf, Carsten
+   * Rüdiger, André
  * RealGo
-  * Colby Ackerfield
-  * Timbonicus Hansen
-  * Danny Hurlburt
-  * James Cummings
-  * Dale Twineham
+  * Ackerfield, Colby
+  * Hansen, Timbonicus
+  * Hurlburt, Danny
+  * Cummings, James
+  * Twineham, Dale
  * R3 GIS SRL
    * Degasperi, Daniel (@daniel.degasperi)
  * Sandford Technology Ltd.
    * Stembridge, James
  * Six3 Advanced Systems, Inc., d.b.a. BIT Systems
-   * Kevin Schmidt (@schmidtk)
-   * William Wall
-   * Jeremy Salankey
-   * Brian Riedinger
-   * Noah Solomon
-   * Jessica Denning
+   * Schmidt, Kevin (@schmidtk)
+   * Wall, William
+   * Salankey, Jeremy
+   * Riedinger, Brian
+   * Solomon, Noah
+   * Denning, Jessica
  * Terrestris
    * Adams, Till (@terrestris)
-   * Marc Jansen (@marcjansen)
+   * Jansen, Marc (@marcjansen)
  * Technology Associates
    * Porcelli, Frank (@fporcelli)
  * US Geological Survey - CIDA
-   * David M Sibley (@davidmsibley)
+   * M Sibley, David (@davidmsibley)
  * Ushahidi
-   * Robbie Mackay (@rjmackay)
-   * Angela Oduor (@aoduor)
-   * David Kobia (@dkobia)
-   * Sharon Rutto (@srutto)
-   * Linda Kamau (@kamaulynder)
-   * Rob Baker (@rrbaker)
-   * Emmanuel Kala (@ekala)
-   * Brian Muita (@69mb)
-   * Henry Addo (@eyedol)
+   * Mackay, Robbie (@rjmackay)
+   * Oduor, Angela (@aoduor)
+   * Kobia, David (@dkobia)
+   * Rutto, Sharon (@srutto)
+   * Kamau, Linda (@kamaulynder)
+   * Baker, Rob (@rrbaker)
+   * Kala, Emmanuel (@ekala)
+   * Muita, Brian (@69mb)
+   * Addo, Henry (@eyedol)
  * Viewsurf SAS
    * Régade, David (@dregade)
    * Iragne, Florian
@@ -370,7 +370,7 @@ We have on file CLAs from the following people:
    * Dufilie, Andy
    * Kamayou, Franck
  * Wheatley Associates Ltd.
-   * Adam Borrows
+   * Borrows, Adam
  * m-click
-   * Volker Grabsch (@vog)
-   * Matthias Pohl (@mpohl)
+   * Grabsch, Volker (@vog)
+   * Pohl, Matthias (@mpohl)
