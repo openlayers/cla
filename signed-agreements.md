@@ -192,15 +192,14 @@ We have on file CLAs from the following people:
    * Guillemette, Stéphane
    * Moisan, Yves (@yvesm)
  * CamptoCamp
-   * Chapuis, Bertil (@bchapuis)
    * Giraud, Pierre (@pgiraud)
    * Junod, Frédéric (@fredj)
-   * Lemoine, Eric (@elemoine)
-   * Binet, Bruno (@bbinet)
-   * Abt, Antoine (@aabt)
+   * Abt, Antoine (@tonio)
    * Brunner, Stéphane (@sbrunner)
    * Sauerwein, Tobias (@tsauerwein)
-   * Patrick Valsecchi (@pvalsecc)
+   * Beraudo, Guillaume (@gberaudo)
+   * Gravin, Florent (@fgravin)
+   * Valsecchi, Patrick (@pvalsecc)
  * CitySafe
    * Dowding, Ed (@eddowding)
    * Lawley, Ross 
