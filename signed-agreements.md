@@ -42,6 +42,7 @@ We have on file CLAs from the following people:
  * Dobrota, Laurentiu (@rauldobrota)
  * Donahue-Oponski, Collin (@colllin)
  * Dowling, Ronan (@ronan)
+ * Racić, Davor (@dracic)
  * Duveen, Schuyler (@sky)
  * Dyas, Lance 
  * van den Eijnden, Bart (@bartvde)
@@ -70,14 +71,18 @@ We have on file CLAs from the following people:
  * Jansen, Jan
  * Jeiziner, Gilbert (@gjn)
  * Johnsen, Håkon (@haakeyar)
+ * Johnson, Brett (@bjnsn)
  * Johnson, Ian (@enjahova)
+ * Jonathan, Martin (@rouquinblanc)
  * Kalbermatten, Michael (@kalbermattenm)
  * Kaminsky, Alexander (@alkamin)
  * Kempfer, Kevin (@kkempfer)
+ * Klassen, James (@klassenjs)
  * Kliemeck, Hajo (@h0nIg)
  * Kovac, Peter (@kzr-pzr)
  * Kryger, Łukasz (@kryger)
  * Lambrechtsen, Anna (@llambanna)
+ * Latham, Nicholas (@nicholas-l)
  * Lawley, Ross 
  * van der Linden, Milo (@milovanderlinden)
  * Leib, Daniel (@mucer)
@@ -99,6 +104,7 @@ We have on file CLAs from the following people:
  * Miller, Andrew (@Welshmilla)
  * Misev, Dimitar 
  * Mische, Volker
+ * Moradiafkan, Yashar (@maveric1977)
  * Montesinos, Miguel
  * Moradiafkan, Yashar (@maveric1977)
  * Moradzadeh, Michael D. (@cayenne)
