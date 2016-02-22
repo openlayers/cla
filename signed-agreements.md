@@ -10,6 +10,7 @@ We have on file CLAs from the following people:
  * Arcos, Moises (@moiarcsan)
  * Attai, Randy (@rattai)
  * Barsballe, Torben (@tbarsballe)
+ * Baumhekel, Sebastian (@sebasbaumh)
  * Běčák, Michal (@michalbecak)
  * Becchi, Lorenzo (@omniverdi)
  * Beckman, Måns (@spatialillusions)
