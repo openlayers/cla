@@ -102,6 +102,7 @@ We have on file CLAs from the following people:
  * Mendt, Jacob (@jacmendt)
  * Merz, Justin (@jrmerz)
  * Messner, Slawomir (@mosesonline)
+ * Michaëlis, Renaud (@rmichaelis)
  * Miles, Christopher M. (@cmiles74)
  * Miller, Andrew (@Welshmilla)
  * Misev, Dimitar 
