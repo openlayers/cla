@@ -99,6 +99,7 @@ We have on file CLAs from the following people:
  * Mamano, Xavier (@jorix)
  * McKenzie, Daniel (@danielm)
  * Mejía, Germán Márquez (@manchito)
+ * Mendt, Jacob (@jacmendt)
  * Merz, Justin (@jrmerz)
  * Messner, Slawomir (@mosesonline)
  * Miles, Christopher M. (@cmiles74)
