@@ -129,7 +129,7 @@ We have on file CLAs from the following people:
  * Ringdahl, Niklas
  * Robins, Peter William (@pwr)
  * Rowe, Barry (@barryrowe)
- * Rykov, Denis Rykov (@dr)
+ * Rykov, Denis (@drnextgis)
  * Ryan, Michael (@m1k3ry4n)
  * Santiago, Antonio (@acanimal)
  * Schaub, Tim (@tschaub)
