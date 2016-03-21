@@ -80,6 +80,7 @@ We have on file CLAs from the following people:
  * Kempfer, Kevin (@kkempfer)
  * Klassen, James (@klassenjs)
  * Kliemeck, Hajo (@h0nIg)
+ * Kokeš, Martin (@shr3k)
  * Kovac, Peter (@kzr-pzr)
  * Kryger, Łukasz (@kryger)
  * Lambrechtsen, Anna (@llambanna)
