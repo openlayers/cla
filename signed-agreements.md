@@ -55,6 +55,7 @@ We have on file CLAs from the following people:
  * Gewissler, Dejung (@dgewissler)
  * Gifford, Mike (@mgifford)
  * Gillies, Sean (@seang)
+ * Goethals, Dimitri (@AvatharDG)
  * Golmann, Paul (@pjeweb)
  * Grant, Christopher W. (@cwgrant)
  * Gratier, Thomas (@ThomasG77)
