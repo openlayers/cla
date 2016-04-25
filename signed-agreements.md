@@ -6,6 +6,7 @@ We have on file CLAs from the following people:
 
 ## [ICLA (Individual)](https://docs.google.com/spreadsheet/viewform?formkey=dGNNVUJEMXF2dERTU0FXM3JjNVBQblE6MQ)
 
+ * Allegri, Giovanni (@giohappy)
  * Allensworth, Greg
  * Arcos, Moises (@moiarcsan)
  * Attai, Randy (@rattai)
