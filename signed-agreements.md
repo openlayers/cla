@@ -77,6 +77,7 @@ We have on file CLAs from the following people:
  * Johnson, Brett (@bjnsn)
  * Johnson, Ian (@enjahova)
  * Jonathan, Martin (@rouquinblanc)
+ * Josefsson, Mattias (@matjos)
  * Kalbermatten, Michael (@kalbermattenm)
  * Kaminsky, Alexander (@alkamin)
  * Kempfer, Kevin (@kkempfer)
