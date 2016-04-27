@@ -310,12 +310,19 @@ We have on file CLAs from the following people:
  * Koordinates Ltd.
    * Coup, Robert (@rcoup)
    * Metz, Sara (@sarametz)
- * MapGears
-   * Lacroix, Julien-Samuel
-   * Dube, Alexandre
-   * Boudreault, Alan
-   * Morissette, Daniel
-   * Savard, Normand
+ * Mapgears Inc.
+   * Blackburn, François (@fblackburn)
+   * Bourget, Charles-Éric (@cbourget)
+   * Brault, Alexandre (@alexbrault)
+   * Dubé, Alexandre (@adube)
+   * Gagnon, Raphaël (@gagnonraphael)
+   * Gaudreault, Raphaël (@raphaelgodro)
+   * Lacroix, Julien-Samuel (@juliensam)
+   * Lapointe, Jessica (@jlap)
+   * Lapointe, Samuel (@samuellapointe)
+   * Mercier, Simon (@smercier)
+   * Morissette, Daniel (@dmorissette)
+   * Villeneuve-Larouche, Jérôme (@jlarouche)
  * MetaCarta
    * Erle, Schuyler (@sderle)
    * Frank, John (@jrf)
