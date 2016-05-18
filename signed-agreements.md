@@ -358,6 +358,8 @@ We have on file CLAs from the following people:
    * Degasperi, Daniel (@daniel.degasperi)
  * Sandford Technology Ltd.
    * Stembridge, James
+ * SCISYS PLC
+   * Marlow, Peter (@marlowp)
  * Six3 Advanced Systems, Inc., d.b.a. BIT Systems
    * Schmidt, Kevin (@schmidtk)
    * Wall, William
