@@ -48,7 +48,8 @@ We have on file CLAs from the following people:
  * Duveen, Schuyler (@sky)
  * Dyas, Lance 
  * van den Eijnden, Bart (@bartvde)
- * Eykamp Christopher (@eykamp)
+ * Eykamp, Christopher (@eykamp)
+ * Farkas, Gábor (@GaborFarkas)
  * Figueiredo de Sá, Denilson (@denilsonsa)
  * Fonts, Oscar (@oscar.fonts)
  * Gawlik, Robin (@rgawlik)
@@ -58,6 +59,7 @@ We have on file CLAs from the following people:
  * Gillies, Sean (@seang)
  * Goethals, Dimitri (@AvatharDG)
  * Golmann, Paul (@pjeweb)
+ * Gómez, Jose (@jmgomezpoveda)
  * Grant, Christopher W. (@cwgrant)
  * Gratier, Thomas (@ThomasG77)
  * Grcic, Ivan (@igrcic)
@@ -93,6 +95,7 @@ We have on file CLAs from the following people:
  * Leib, Daniel (@mucer)
  * Lesage, Sylvain (@severo)
  * Lihua, Wang (@vczero)
+ * Lin, Wei (@anzhihun)
  * Lindstam, Alvin (@alvinlindstam)
  * Lister, Jonathan (@jayfresh)
  * López Espínola, Christian (@penyaskito)
@@ -133,6 +136,7 @@ We have on file CLAs from the following people:
  * Ringdahl, Niklas
  * Robins, Peter William (@pwr)
  * Rowe, Barry (@barryrowe)
+ * Rowe, Frank (@frankrowe)
  * Rykov, Denis (@drnextgis)
  * Ryan, Michael (@m1k3ry4n)
  * Santiago, Antonio (@acanimal)
@@ -147,6 +151,7 @@ We have on file CLAs from the following people:
  * Spitzer, Zac (@zspitzer)
  * Stampoultzis, Glen (@gstamp)
  * Strachanski, Fabian (@fastrde)
+ * Stévens, Pierre (@pieside)
  * Strumpflohner, Juri (@juristr)
  * Szekeres, Tamas (@szekerest)
  * Tananaev, Anton
