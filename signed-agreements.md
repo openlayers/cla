@@ -15,6 +15,7 @@ We have on file CLAs from the following people:
  * Běčák, Michal (@michalbecak)
  * Becchi, Lorenzo (@omniverdi)
  * Beckman, Måns (@spatialillusions)
+ * Berger, Samuel (@SamuelBerger)
  * Bieniek, Tobias (@Turbo87)
  * van der Biest, François (@fvanderbiest)
  * Bjørndal, Knut Arne (@bobkare)
