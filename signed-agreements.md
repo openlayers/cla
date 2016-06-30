@@ -354,6 +354,12 @@ We have on file CLAs from the following people:
  * NOVASIB GmbH
    * Senf, Carsten
    * Rüdiger, André
+ * Planet Labs Inc.
+   * Tim Schaub (@tschaub)
+   * Ian Schneider (@ischneider)
+   * Trevor Blades (@trevorblades)
+   * Jesse Hattabaugh (@jessehattabaugh)
+   * Kyle Howell (@KyleHowell)
  * RealGo
   * Ackerfield, Colby
   * Hansen, Timbonicus
