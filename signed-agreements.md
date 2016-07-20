@@ -307,8 +307,9 @@ We have on file CLAs from the following people:
  * Iowa State University, Center for Survey Statistics and Methodology
    * Vardeman, Andrew (@adv-isu)
  * Klaus Benndorf
+   * Klemenjak, Sascha (@ischas)
    * Seyock, Simon (@simonseyock)
-   * Schugt, Josef
+   * Schugt, Josef (@penpendede)
  * Klokan Technologies GmbH
    * Pridal, Petr (@klokan)
    * Sloup, Petr (@petrsloup)
