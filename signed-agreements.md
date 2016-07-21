@@ -138,6 +138,7 @@ We have on file CLAs from the following people:
  * Robins, Peter William (@pwr)
  * Rowe, Barry (@barryrowe)
  * Rowe, Frank (@frankrowe)
+ * Rutkowski, Rafał (@rrutkows)
  * Rykov, Denis (@drnextgis)
  * Ryan, Michael (@m1k3ry4n)
  * Santiago, Antonio (@acanimal)
