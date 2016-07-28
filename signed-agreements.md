@@ -372,6 +372,9 @@ We have on file CLAs from the following people:
    * Degasperi, Daniel (@daniel.degasperi)
  * Sandford Technology Ltd.
    * Stembridge, James
+ * Science Systems and Applications, Inc. (SSAI)
+   * King, Benjamin (@Benjaki2)
+   * Gunnoe, Taylor
  * SCISYS PLC
    * Marlow, Peter (@marlowp)
  * Six3 Advanced Systems, Inc., d.b.a. BIT Systems
