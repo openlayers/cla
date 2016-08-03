@@ -49,6 +49,7 @@ We have on file CLAs from the following people:
  * Duveen, Schuyler (@sky)
  * Dyas, Lance 
  * van den Eijnden, Bart (@bartvde)
+ * Eugene, Gureev (@cpsTinK)
  * Eykamp, Christopher (@eykamp)
  * Farkas, Gábor (@GaborFarkas)
  * Figueiredo de Sá, Denilson (@denilsonsa)
