@@ -264,7 +264,7 @@ We have on file CLAs from the following people:
    * Nygaard, Snorre
  * FlightAware LCC
    * Clifton, Philip (@pclifton)
-   * Reiter, Daniel
+   * Reiter, Daniel (@dtreiter)
  * Gecko Informasjonssystemer AS
    * Henriksen, Jan Rune (@geckoas)
  * geOps e.K.
