@@ -42,6 +42,7 @@ We have on file CLAs from the following people:
  * de Reyna Domínguez, María Arias (@Delawen)
  * Deparday, Vivien (@vdeparday)
  * Dikiy, Sergey (@sdikiy)
+ * Dlouhý, Petr (@PetrDlouhy)
  * Dobrota, Laurentiu (@rauldobrota)
  * Donahue-Oponski, Collin (@colllin)
  * Dowling, Ronan (@ronan)
