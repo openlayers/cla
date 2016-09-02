@@ -374,6 +374,9 @@ We have on file CLAs from the following people:
    * Degasperi, Daniel (@daniel.degasperi)
  * Sandford Technology Ltd.
    * Stembridge, James
+ * SCALGO Development ApS
+   * Mølhave, Thomas (@thomasmoelhave)
+   * van Walderveen, Freek (@freekvw)
  * Science Systems and Applications, Inc. (SSAI)
    * King, Benjamin (@Benjaki2)
    * Gunnoe, Taylor
