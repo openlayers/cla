@@ -394,6 +394,10 @@ We have on file CLAs from the following people:
    * Jansen, Marc (@marcjansen)
  * Technology Associates
    * Porcelli, Frank (@fporcelli)
+ * Thermopylae Sciences & Technology LLC
+   * Cupp, Jason
+   * Penev, Pavel (@tst-ppenev)
+   * Terrazas, Andres
  * US Geological Survey - CIDA
    * M Sibley, David (@davidmsibley)
  * Ushahidi
