@@ -179,6 +179,9 @@ We have on file CLAs from the following people:
 
 ## [CCLA (Company)](ccla.txt)
 
+ * 1Spatial
+   * Choufane, Ouafaa
+   * Chandelle, Thomas (@tchandelle)
  * ADI Limited
    * Shorter, Cameron (@camerons)
  * Analytical Graphics, Inc.
