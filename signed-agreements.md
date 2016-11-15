@@ -395,6 +395,7 @@ We have on file CLAs from the following people:
  * Terrestris
    * Adams, Till (@terrestris)
    * Jansen, Marc (@marcjansen)
+   * Koch, Daniel (@dnlkoch)
  * Technology Associates
    * Porcelli, Frank (@fporcelli)
  * Thermopylae Sciences & Technology LLC
