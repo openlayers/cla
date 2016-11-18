@@ -132,6 +132,7 @@ We have on file CLAs from the following people:
  * Payne, Tom (@twpayne)
  * Pini, Lorenzo 
  * Parker, Dustin (@dparker)
+ * Peart, Angus (@Gussy)
  * Pedersen, Brent (@brentp)
  * Peručić, Fran (@fperucic)
  * Prilepskiy, Anton Igorevich (@towa48)
