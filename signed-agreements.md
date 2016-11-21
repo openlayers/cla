@@ -220,7 +220,7 @@ We have on file CLAs from the following people:
    * Dubé, Etienne (@etdube)
    * Guillemette, Stéphane
    * Moisan, Yves (@yvesm)
- * CamptoCamp
+ * Camptocamp
    * Giraud, Pierre (@pgiraud)
    * Junod, Frédéric (@fredj)
    * Abt, Antoine (@tonio)
@@ -229,6 +229,7 @@ We have on file CLAs from the following people:
    * Beraudo, Guillaume (@gberaudo)
    * Gravin, Florent (@fgravin)
    * Valsecchi, Patrick (@pvalsecc)
+   * Zoller, Roman (@romanzoller)
  * CitySafe
    * Dowding, Ed (@eddowding)
    * Lawley, Ross 
