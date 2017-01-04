@@ -93,6 +93,7 @@ We have on file CLAs from the following people:
  * Kokeš, Martin (@shr3k)
  * Kovac, Peter (@kzr-pzr)
  * Kryger, Łukasz (@kryger)
+ * Kumar, Naveen (@NaveenKY)
  * Lambrechtsen, Anna (@llambanna)
  * Latham, Nicholas (@nicholas-l)
  * Lawley, Ross 
@@ -156,6 +157,7 @@ We have on file CLAs from the following people:
  * Singh, Sanjiv (@sanjiv)
  * Skovhede, Kenneth
  * Smith, Paul (@paulsmith)
+ * Somerville, Matthew Peter (@dracos)
  * Spitzer, Zac (@zspitzer)
  * Stampoultzis, Glen (@gstamp)
  * Strachanski, Fabian (@fastrde)
@@ -165,6 +167,7 @@ We have on file CLAs from the following people:
  * Tananaev, Anton
  * Tandy, Michael
  * Thorner, Todd (@7-liberal-arts)
+ * Utech, Axel (@aAXEe)
  * Uzureau, Erik (@euzuro)
  * Vaduva, Bogdan (@bogdanvaduva)
  * Vardeman, Andrew (@adv-isu)
@@ -179,6 +182,7 @@ We have on file CLAs from the following people:
  * Wooten, Michael Wooten (@mwootendev)
  * Xurxo Méndez Pérez
  * Young, Mark M. (@MarkMYoung)
+ * Young, Ronald (@raiyni)
  * Zanon, Swen (@swen100)
 
 ## [CCLA (Company)](ccla.txt)
