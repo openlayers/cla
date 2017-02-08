@@ -190,6 +190,9 @@ We have on file CLAs from the following people:
  * 1Spatial
    * Choufane, Ouafaa
    * Chandelle, Thomas (@tchandelle)
+ * Accenture Federal Services
+   * Jackson, Alfred (@rjackson64840)
+   * Wu, Jingpeng
  * ADI Limited
    * Shorter, Cameron (@camerons)
  * Analytical Graphics, Inc.
