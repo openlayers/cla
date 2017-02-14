@@ -357,6 +357,8 @@ We have on file CLAs from the following people:
    * Uzureau, Erik (@euzuro)
  * Moravská Zemská Knihovna v Brně
    * Petr Klokan Pridal
+ * Nearmap Limited
+   * Kollhof, Jan Klaas (@kollhof)
  * Newgrove Consultants Limited
    * Diss, John (@john_diss)
  * Nieuwland Automatisiering BV.
