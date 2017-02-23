@@ -322,6 +322,9 @@ We have on file CLAs from the following people:
    * Plum, Hans
    * Holl, Stephan
    * Englich, Tim
+ * Ioda-Net Sàrl
+   * Enselme, Julien (@Jenselme)
+   * Friedmann, Bruno
  * Iowa State University, Center for Survey Statistics and Methodology
    * Vardeman, Andrew (@adv-isu)
  * Klaus Benndorf
