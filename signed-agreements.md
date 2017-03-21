@@ -171,6 +171,7 @@ We have on file CLAs from the following people:
  * Uzureau, Erik (@euzuro)
  * Vaduva, Bogdan (@bogdanvaduva)
  * Vardeman, Andrew (@adv-isu)
+ * Veysseyre, Félix (felixveysseyre)
  * Walker, Jonatas (@jonataswalker)
  * Walker, Mathias (@mwa)
  * Watermeyer, Andreas (@awaterme)
