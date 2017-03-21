@@ -80,6 +80,7 @@ We have on file CLAs from the following people:
  * Ignacio Varela García, Juan (@nachouve)
  * Jansen, Jan
  * Jeiziner, Gilbert (@gjn)
+ * Jiránek, Aleš (@AlesJiranek)
  * Johnsen, Håkon (@haakeyar)
  * Johnson, Brett (@bjnsn)
  * Johnson, Ian (@enjahova)
