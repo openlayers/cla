@@ -8,6 +8,7 @@ We have on file CLAs from the following people:
 
  * Allegri, Giovanni (@giohappy)
  * Allensworth, Greg
+ * Alvergnat, Rémi (@Toilal)
  * Arcos, Moises (@moiarcsan)
  * Attai, Randy (@rattai)
  * Barsballe, Torben (@tbarsballe)
