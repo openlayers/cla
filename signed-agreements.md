@@ -90,6 +90,7 @@ We have on file CLAs from the following people:
  * Kalbermatten, Michael (@kalbermattenm)
  * Kaminsky, Alexander (@alkamin)
  * Kempfer, Kevin (@kkempfer)
+ * Khafizov, Murad (@hajjimurad)
  * Klassen, James (@klassenjs)
  * Kliemeck, Hajo (@h0nIg)
  * Kokeš, Martin (@shr3k)
