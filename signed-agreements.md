@@ -128,6 +128,7 @@ We have on file CLAs from the following people:
  * Moradiafkan, Yashar (@maveric1977)
  * Moradzadeh, Michael D. (@cayenne)
  * Moullet, Cédric (@cedricmoullet)
+ * Nagy, Jonathan (@nagytech)
  * Nash, Edward (@ejn)
  * Nottingham, Matt
  * Overstrom, David (@overstdr)
