@@ -383,6 +383,10 @@ We have on file CLAs from the following people:
  * NOVASIB GmbH
    * Senf, Carsten
    * Rüdiger, André
+ * Omniscale GmbH & Co. KG
+   * Culemann, Kai
+   * Helle, Dominik
+   * Tonnhofer, Oliver
  * Planet Labs Inc.
    * Tim Schaub (@tschaub)
    * Ian Schneider (@ischneider)
