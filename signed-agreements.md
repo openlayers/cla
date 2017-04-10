@@ -384,9 +384,9 @@ We have on file CLAs from the following people:
    * Senf, Carsten
    * Rüdiger, André
  * Omniscale GmbH & Co. KG
-   * Culemann, Kai
-   * Helle, Dominik
-   * Tonnhofer, Oliver
+   * Culemann, Kai (@kaicu)
+   * Helle, Dominik (@geododo)
+   * Tonnhofer, Oliver (@olt)
  * Planet Labs Inc.
    * Tim Schaub (@tschaub)
    * Ian Schneider (@ischneider)
