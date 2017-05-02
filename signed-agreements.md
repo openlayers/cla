@@ -13,6 +13,7 @@ We have on file CLAs from the following people:
  * Attai, Randy (@rattai)
  * Barsballe, Torben (@tbarsballe)
  * Baumhekel, Sebastian (@sebasbaumh)
+ * Beaudouin-Lafon, Michel (@mblinsitu)
  * Běčák, Michal (@michalbecak)
  * Becchi, Lorenzo (@omniverdi)
  * Beckman, Måns (@spatialillusions)
