@@ -34,6 +34,7 @@ We have on file CLAs from the following people:
  * Cepicky, Jachym (@jachym)
  * Chadwick, Bill (@bill-chadwick)
  * Chen, Jian Ding (@timchen119)
+ * Choi, Seulgi (@cs09g)
  * Choly, Ilia (@icholy)
  * Cohen, Tamar Elizabeth (@tamarmot)
  * Collins, Philip (@collinsp)
