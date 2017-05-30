@@ -382,6 +382,10 @@ We have on file CLAs from the following people:
    * Alam, Sarfraz
    * Bønes, Vegard
    * Kristian, Bjørn Larsen
+ * Not Not Consulting AB
+   * Petersson, Jonas (@itjope)
+   * Häggström, Bobo (@bobobobo)
+   * Berggren, Henrik (@henkeberggren)
  * NOVASIB GmbH
    * Senf, Carsten
    * Rüdiger, André
