@@ -63,6 +63,7 @@ We have on file CLAs from the following people:
  * Gawlik, Robin (@rgawlik)
  * Gensthaler, Max (@gensth)
  * Gewissler, Dejung (@dgewissler)
+ * Gianforcaro, Greg (@greggian)
  * Gifford, Mike (@mgifford)
  * Gillies, Sean (@seang)
  * Goethals, Dimitri (@AvatharDG)
