@@ -217,6 +217,8 @@ We have on file CLAs from the following people:
    * Mackey, Ed (@emackey)
    * Beatty, Greg (@gbeatty)
    * Fili, Tom (@tfili)
+ * ASRC Federal
+   * Rice, Zachary (@ZachTRice)
  * Azavea Incorporated
    * Adams, Jeff
    * Brittain, Carissa
