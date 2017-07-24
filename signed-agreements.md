@@ -101,6 +101,7 @@ We have on file CLAs from the following people:
  * Kliemeck, Hajo (@h0nIg)
  * Kokeš, Martin (@shr3k)
  * Kovac, Peter (@kzr-pzr)
+ * Krešić, Gordan (@gkresic)
  * Kryger, Łukasz (@kryger)
  * Kumar, Naveen (@NaveenKY)
  * Lambrechtsen, Anna (@llambanna)
