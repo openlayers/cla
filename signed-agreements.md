@@ -13,6 +13,7 @@ We have on file CLAs from the following people:
  * Arcos, Moises (@moiarcsan)
  * Attai, Randy (@rattai)
  * Barsballe, Torben (@tbarsballe)
+ * Bárta, Dan (@ehanoj)
  * Baumhekel, Sebastian (@sebasbaumh)
  * Beaudouin-Lafon, Michel (@mblinsitu)
  * Běčák, Michal (@michalbecak)
