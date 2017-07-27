@@ -140,6 +140,7 @@ We have on file CLAs from the following people:
  * Moullet, Cédric (@cedricmoullet)
  * Nagy, Jonathan (@nagytech)
  * Nash, Edward (@ejn)
+ * Nordmann, William (@wnordmann)
  * Nottingham, Matt
  * Overstrom, David (@overstdr)
  * Pavel, Iacovlev (@iacovlev-pavel)
