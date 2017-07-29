@@ -312,6 +312,8 @@ We have on file CLAs from the following people:
    * Zhang, Weijun
  * Hauforskningsinstituttet
    * Moen, Endre (@emoen)
+ * Horus View and Explore B.V.
+   * João Gouveia (@Sol1du2)
  * Hyperspectives
    * Schaub, Tim (@tschaub)
  * IGEA
