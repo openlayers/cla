@@ -181,6 +181,7 @@ We have on file CLAs from the following people:
  * Tananaev, Anton
  * Tandy, Michael
  * Thorner, Todd (@7-liberal-arts)
+ * Tilak, Thomas (@thhomas)
  * Utech, Axel (@aAXEe)
  * Uzureau, Erik (@euzuro)
  * Vaduva, Bogdan (@bogdanvaduva)
