@@ -200,6 +200,7 @@ We have on file CLAs from the following people:
  * Young, Mark M. (@MarkMYoung)
  * Young, Ronald (@raiyni)
  * Zanon, Swen (@swen100)
+ * Zhang, Stuart (@stuartZhang)
  * Zouhar, Florian (@f7o)
 
 ## [CCLA (Company)](ccla.txt)
