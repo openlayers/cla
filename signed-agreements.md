@@ -189,6 +189,7 @@ We have on file CLAs from the following people:
  * Veysseyre, Félix (felixveysseyre)
  * Walker, Jonatas (@jonataswalker)
  * Walker, Mathias (@mwa)
+ * Wang, Bin (@wb14123)
  * Watermeyer, Andreas (@awaterme)
  * Weil, Stefan (@stweil)
  * Whalen, Kevin (@KevinWhalen)
