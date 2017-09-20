@@ -54,7 +54,7 @@ We have on file CLAs from the following people:
  * Dowling, Ronan (@ronan)
  * Racić, Davor (@dracic)
  * Duveen, Schuyler (@sky)
- * Dyas, Lance 
+ * Dyas, Lance
  * van den Eijnden, Bart (@bartvde)
  * Eugene, Gureev (@cpsTinK)
  * Eykamp, Christopher (@eykamp)
@@ -107,7 +107,7 @@ We have on file CLAs from the following people:
  * Kumar, Naveen (@NaveenKY)
  * Lambrechtsen, Anna (@llambanna)
  * Latham, Nicholas (@nicholas-l)
- * Lawley, Ross 
+ * Lawley, Ross
  * van der Linden, Milo (@milovanderlinden)
  * Leib, Daniel (@mucer)
  * Lesage, Sylvain (@severo)
@@ -130,7 +130,7 @@ We have on file CLAs from the following people:
  * Michaëlis, Renaud (@rmichaelis)
  * Miles, Christopher M. (@cmiles74)
  * Miller, Andrew (@Welshmilla)
- * Misev, Dimitar 
+ * Misev, Dimitar
  * Mische, Volker
  * Moradiafkan, Yashar (@maveric1977)
  * Mortazavi, Cameron (@cmortazavi)
@@ -145,7 +145,7 @@ We have on file CLAs from the following people:
  * Overstrom, David (@overstdr)
  * Pavel, Iacovlev (@iacovlev-pavel)
  * Payne, Tom (@twpayne)
- * Pini, Lorenzo 
+ * Pini, Lorenzo
  * Parker, Dustin (@dparker)
  * Peart, Angus (@Gussy)
  * Pedersen, Brent (@brentp)
@@ -153,7 +153,7 @@ We have on file CLAs from the following people:
  * Prilepskiy, Anton Igorevich (@towa48)
  * Prunayre, François (@fx.prunayre)
  * Ratcliffe, Adam (@aratcliffe)
- * Renevier, Arnaud (@arno) 
+ * Renevier, Arnaud (@arno)
  * Reid, Gabriel (@greid)
  * Ringdahl, Niklas
  * Robins, Peter William (@pwr)
@@ -260,9 +260,9 @@ We have on file CLAs from the following people:
    * Zoller, Roman (@romanzoller)
  * CitySafe
    * Dowding, Ed (@eddowding)
-   * Lawley, Ross 
+   * Lawley, Ross
  * Cloud Amber Limited
-   * Thurbin, Richard 
+   * Thurbin, Richard
  * Columbus Technologies
    * Gerow, Frank
    * Mc, MikeGann (@mike-mcgann)
