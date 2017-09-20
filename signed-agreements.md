@@ -465,6 +465,9 @@ We have on file CLAs from the following people:
  * Viewsurf SAS
    * Régade, David (@dregade)
    * Iragne, Florian
+ * virtualcitySYSTEMS GmbH
+   * Jannes Bolling (@jbo023)
+   * Ben Kuster (@bkuster)
  * Weave Visual Analytics, Inc.
    * Kovac, Philip (@pkovac)
    * Dufilie, Andy
