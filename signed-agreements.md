@@ -409,6 +409,9 @@ We have on file CLAs from the following people:
    * Culemann, Kai (@kaicu)
    * Helle, Dominik (@geododo)
    * Tonnhofer, Oliver (@olt)
+ * Ordnance Survey
+   * Duncan Munro
+   * Shane Poole
  * Planet Labs Inc.
    * Tim Schaub (@tschaub)
    * Ian Schneider (@ischneider)
