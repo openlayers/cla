@@ -167,6 +167,7 @@ We have on file CLAs from the following people:
  * Ryan, Michael (@m1k3ry4n)
  * Sacchetti, Marco (@marcosox)
  * Santiago, Antonio (@acanimal)
+ * Santos Silva, Alexandre Manuel (@Alexandre27)
  * Schaub, Tim (@tschaub)
  * Schütze, Emanuel (@emanuel)
  * Shah, Tarang (@t27)
