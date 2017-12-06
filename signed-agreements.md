@@ -233,6 +233,15 @@ We have on file CLAs from the following people:
    * Fili, Tom (@tfili)
  * ASRC Federal
    * Rice, Zachary (@ZachTRice)
+ * Astun Technology Ltd.
+   * Bailey, Andrew (@coastalrocket)
+   * Cook, Jo (@archaeogeek)
+   * Goulborn, Peter (@devsupportman)
+   * Heal, Aileen (@aileenheal)
+   * Lake-Thomas, Jonathan (@jonathlt)
+   * Porthouse, Paul (@PaulPorthouse)
+   * Turton, Ian (@ianturton)
+   * Walker, Matt (@walkermatt)
  * Azavea Incorporated
    * Adams, Jeff
    * Brittain, Carissa
