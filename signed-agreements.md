@@ -24,6 +24,7 @@ We have on file CLAs from the following people:
  * van der Biest, François (@fvanderbiest)
  * Bjørndal, Knut Arne (@bobkare)
  * Blake, Scott Landon
+ * Bleichner, Manuel (@mbleichner)
  * Boekema Gijs (@gpcboekema)
  * Bösch-Plepelits, Stephan (@plepe)
  * Brantley, Huey (@hpbrantley)
