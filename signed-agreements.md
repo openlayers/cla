@@ -53,6 +53,7 @@ We have on file CLAs from the following people:
  * Dobrota, Laurentiu (@rauldobrota)
  * Donahue-Oponski, Collin (@colllin)
  * Dowling, Ronan (@ronan)
+ * Drgon, Lukas (@LukasDrgon)
  * Racić, Davor (@dracic)
  * Duveen, Schuyler (@sky)
  * Dyas, Lance
@@ -68,6 +69,7 @@ We have on file CLAs from the following people:
  * Gianforcaro, Greg (@greggian)
  * Gifford, Mike (@mgifford)
  * Gillies, Sean (@seang)
+ * Girard, Samuel (@samuel-girard)
  * Goethals, Dimitri (@AvatharDG)
  * Golmann, Paul (@pjeweb)
  * Gómez, Jose (@jmgomezpoveda)
@@ -170,6 +172,7 @@ We have on file CLAs from the following people:
  * Santiago, Antonio (@acanimal)
  * Santos Silva, Alexandre Manuel (@Alexandre27)
  * Schaub, Tim (@tschaub)
+ * Schmitt, Peter (@pedros007)
  * Schütze, Emanuel (@emanuel)
  * Shah, Tarang (@t27)
  * Shorter, Cameron (@camerons)
